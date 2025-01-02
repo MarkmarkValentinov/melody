@@ -44,7 +44,7 @@ function swet(value) {
   const rate1 = 1.26;
   const rate2 = 2.89;
   const rate3 = 4.39;
-  const indications1 = 70;
+  const indications1 = 100;
   const indications2 = 800;
   let check = 0;
   if ( meter > 0 && meter <= indications1 ) {
